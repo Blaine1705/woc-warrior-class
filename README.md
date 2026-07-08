@@ -16,7 +16,8 @@ I designed and built the Warrior's three specializations end to end: their kits,
 
 ## 📸 Screenshots
 
-_Add screenshots of the specialization screen, the action bar, and the ability icons here._
+<img width="1155" height="728" alt="6c6f34334077dfe89b7cdeab207c6739" src="https://github.com/user-attachments/assets/c86579e5-3335-47da-b902-3d5710579191" />
+
 
 ## 🛠 Tech
 
